@@ -1,1 +1,0 @@
-# Missão 1: criar um programa que verifique se um aluno foi aprovado (nota maior ou igual à 6) ou reprovado (nota menor ou igual à 5).
