@@ -1,4 +1,4 @@
-# Missão 1: criar um programa que verifique se um aluno foi aprovado (nota maior ou igual à 6) ou reprovado (nota menor ou igual à 5).
+# Missão 01: Criar um programa que verifique se um aluno foi aprovado (nota maior ou igual à 6) ou reprovado (nota menor ou igual à 5).
 
 # nota = float(input("Digite a nota: "))
 

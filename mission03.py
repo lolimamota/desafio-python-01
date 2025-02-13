@@ -1,5 +1,4 @@
-# Missão 3: Recuperando o Sistema de Notas 📊
-# As classificações das provas desapareceram! Agora os alunos não sabem se tiraram um A, B, C, D ou F . Antes que o pânico se espalhe, sua tarefa é criar um programa que peça a nota do aluno e imprima sua classificação conforme a escala:
+# Missão 03: Criar um programa que peça a nota do aluno e imprima sua classificação conforme a escala:
 
 # - A (90-100) – "Parabéns, você tirou A!"
 # - B (80-89) – "Muito bem, você tirou B."
